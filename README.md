@@ -9,7 +9,7 @@ PIR센서에 침입 감지가 되면 LED의 색깔이 초록색 -> 빨간색으�
 [유튜브링크](https://youtu.be/HuQG70XQCPI)
 
 # 4.개발 언어
-*CoAP통신 및 센서 프로그램
- *자바
-*DB
- *MySQL
+* CoAP통신 및 센서 프로그램
+ * 자바
+* DB
+ * MySQL
