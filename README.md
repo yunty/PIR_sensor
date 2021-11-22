@@ -6,7 +6,7 @@ CoAp통신을 활용해 라즈베리파이의 PIR센서값을 입력받고 값�
 PIR센서에 침입 감지가 되면 LED의 색깔이 초록색 -> 빨간색으로 변한다.
 
 # 3.실행 영상
-[유튜브링크](https://youtu.be/HuQG70XQCPI)
+[유튜브링크](https://youtu.be/lJmC56V3Wm0)
 
 # 4.개발 언어
 * CoAP통신 및 센서 프로그램
